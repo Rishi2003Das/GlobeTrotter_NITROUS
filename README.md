@@ -37,7 +37,7 @@ Built during the **Odoo Hackathon 2025** on the "GlobeTrotter – Empowering Per
 ### Backend
 - **Python (Flask)** for AI integration services
 - **Node.js / Next.js API routes** for web backend
-- **PostgreSQL** for storing user profiles, trips, and activities
+- **MongoDB** for storing user profiles, trips, and activities
 - **JWT** for secure authentication
 
 ### APIs & Services
